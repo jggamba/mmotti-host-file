@@ -138,7 +138,7 @@ Function Parse-Hosts
     # Exclude blank lines
     $hosts  -replace '^(?![a-z0-9*]|\|{2}).+$'`
             -replace '^(?:\d{1,3}\.){3}\d{1,3}\s+'`
-            -replace '(?:^|[^\S\n]+)#.*$'`
+            -replace '[^\S\n]+#.*$'`
             -replace '\s+'`
             | ? {$_}
 }
