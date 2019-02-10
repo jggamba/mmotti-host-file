@@ -88,6 +88,8 @@ doubleclick.be
 *.doubleclick.be
 doubleclick.net
 *.doubleclick.net
+doubleverify.com
+*.doubleverify.com
 dynamic.dol.ru
 *.dynamic.dol.ru
 economicoutlook.net
@@ -96,6 +98,8 @@ esomniture.com
 *.esomniture.com
 estat.com
 *.estat.com
+exacttarget.com
+*.exacttarget.com
 extreme-dm.com
 *.extreme-dm.com
 ezcybersearch.com
@@ -142,6 +146,8 @@ iovation.com
 *.iovation.com
 kaffnet.com
 *.kaffnet.com
+keywordblocks.com
+*.keywordblocks.com
 kontera.com
 *.kontera.com
 linkpulse.com
@@ -154,8 +160,16 @@ marketgid.com
 *.marketgid.com
 marketscore.com
 *.marketscore.com
+marketo.com
+*.marketo.com
+marketo.net
+*.marketo.net
 mydas.mobi
 *.mydas.mobi
+netmng.com
+*.netmng.com
+newrelic.com
+*.newrelic.com
 oewabox.at
 *.oewabox.at
 omniture.com
@@ -164,6 +178,8 @@ omtrdc.net
 *.omtrdc.net
 opentracker.net
 *.opentracker.net
+optimizely.com
+*.optimizely.com
 ourtablets.com
 *.ourtablets.com
 p2l.info
@@ -172,6 +188,8 @@ paycount.com
 *.paycount.com
 petrovka.info
 *.petrovka.info
+perimeterx.net
+*.perimeterx.net
 polybuild.ru
 *.polybuild.ru
 pop6.com
@@ -216,6 +234,12 @@ tsyndicate.com
 *.tsyndicate.com
 tynt.com
 *.tynt.com
+userreplay.net
+*.userreplay.net
+unrulymedia.com
+*.unrulymedia.com
+rfihub.net
+*.rfihub.net
 vkuservideo.net
 *.vkuservideo.net
 voluumtrk.com
@@ -259,6 +283,7 @@ aff.*
 affiliate.*
 affiliates.*
 analytics.*
+*.api.5rocks.io
 api.cloudmobi.net
 api.segment.io
 assets.adobedtm.com
